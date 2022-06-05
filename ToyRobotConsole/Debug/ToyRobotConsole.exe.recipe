@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>c:\work\ToyRobotConsole\ToyRobotConsole\Debug\ToyRobotConsole.exe</FullPath>
+      <FullPath>C:\WorkSpace\ToyRobotConsole\Debug\ToyRobotConsole.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
