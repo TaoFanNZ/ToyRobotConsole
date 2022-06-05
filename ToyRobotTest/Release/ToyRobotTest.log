@@ -1,0 +1,6 @@
+﻿     Creating library c:\work\ToyRobotConsole\ToyRobotConsole\Release\ToyRobotTest.lib and object c:\work\ToyRobotConsole\ToyRobotConsole\Release\ToyRobotTest.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 531 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ToyRobotTest.vcxproj -> c:\work\ToyRobotConsole\ToyRobotConsole\Release\ToyRobotTest.dll
